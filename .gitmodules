@@ -1,0 +1,4 @@
+[submodule "MNIST-dataset-in-different-formats"]
+	path = MNIST-dataset-in-different-formats
+	url = https://github.com/mrgloom/MNIST-dataset-in-different-formats.git
+	branch = master
